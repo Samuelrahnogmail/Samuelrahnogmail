@@ -1,7 +1,6 @@
 - 👋 Hi, I’m mrx
-- 👀 I’m interested in ..Learning c language.
-- 🌱 I’m currently learning Html,css
-- 💞️ I’m looking to collaborate on .. css and JAVASCRIPT.
+- 👀 I work as a full stack developer.
+- 💞️ I’m open to learn more 
 - 📫 How to reach me ...
 
 <!---
